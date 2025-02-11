@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Livewire y TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://gomsoft.tech/](https://ernesto2066.github.io/Gomsoft-HTML5/)
+- 👨‍💻 All of my projects are available at [https://gomsoft](https://gomsoft.site/)
 
-- 📝 I regularly write articles on [https://gomsoft.tech/](https://ernesto2066.github.io/Gomsoft-HTML5/)
+- 📝 I regularly write articles on [https://gomsoft](https://gomsoft.site/)
 
 - 💬 Ask me about **Python, Go, Java, PHP**
 
 - 📫 How to reach me **ernesto2066@gmail.com**
 
-- 📄 Know about my experiences [https://gomsoft.tech/](https://ernesto2066.github.io/Gomsoft-HTML5/)
+- 📄 Know about my experiences [https://gomsoft](https://gomsoft.site/)
 
-- ⚡ Fun fact [https://gomsoft.tech/](https://ernesto2066.github.io/Gomsoft-HTML5/)
+- ⚡ Fun fact [https://gomsoft](https://gomsoft.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
